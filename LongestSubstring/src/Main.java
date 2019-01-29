@@ -6,7 +6,7 @@ public class Main {
 		
 		System.out.println(geLongestSubstring(input));
 	}
-//solution 3
+//solution 3 test
 	public static int geLongestSubstring(String input) {
 		
 		int count=1;
